@@ -1,0 +1,1 @@
+const arrMultiply = arr => ''+ eval( arr.join('*')); 
