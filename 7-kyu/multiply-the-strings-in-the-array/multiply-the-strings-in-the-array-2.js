@@ -1,0 +1,1 @@
+const arrMultiply = ([a, b]) => '' + (a * b);
